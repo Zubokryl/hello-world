@@ -7,7 +7,7 @@
 1. Das erste
 2. Das zweite
 
-`function calclate (number1, number2) {
+`function calculate (number1, number2) {
 let summe=number1+number2;
 return summe;
 let a = 3;
